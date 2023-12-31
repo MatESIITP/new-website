@@ -1,9 +1,9 @@
 <div align="center">
 
 [![Welcome to my profile](https://img.shields.io/badge/Hello,Programmer!-Welcome-blue.svg?style=flat&logo=github)](https://github.com/MatESIITP)
-[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/MatESIITP/MatESIITP.github.io)
-![Stars](https://img.shields.io/github/stars/MatESIITP/MatESIITP.github.io?style=flat&logo=github)
-![Forks](https://img.shields.io/github/forks/MatESIITP/MatESIITP.github.io?style=flat&logo=github)
+[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/MatESIITP/new-website)
+![Stars](https://img.shields.io/github/stars/MatESIITP/new-website?style=flat&logo=github)
+![Forks](https://img.shields.io/github/forks/MatESIITP/new-website?style=flat&logo=github)
 
 </div>
 
